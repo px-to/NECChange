@@ -241,7 +241,6 @@ export default function CalendarPage() {
               initialView="dayGridMonth"
               displayEventTime={false}
               events={filteredEvents}
-              eventColor="blue-sky-500"
               eventTextColor="white"
               eventDisplay="block" 
               height="80vh"
