@@ -24,6 +24,7 @@ export default function ManageTrades() {
   ];
 
   //'WORKSHOP','TALK','TERTULIA','OTHER']
+  //Boa cenas
   const EventTypes = [
     { value: "WORKSHOP", label: "WORKSHOP" },
     { value: "TALK", label: "TALK" },
