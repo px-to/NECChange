@@ -29,6 +29,7 @@ export default function ManageTrades() {
     { value: "TALK", label: "TALK" },
     { value: "TERTULIA", label: "TERTULIA" },
     { value: "OTHER", label: "OTHER" },
+    { value: "lanche", label: "Lanche" },
     { value: "Instalar Linux", label: "Instalar Linux" },
 
   ];
