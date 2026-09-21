@@ -19,6 +19,7 @@ export default function ManageTrades() {
     { value: "entrega", label: "Entrega" },
     { value: "exame", label: "Exame" },
     { value: "miniteste", label: "Mini-Teste" },
+    { value: "apresentacao", label: "Apresentação" },
     { value: "miniteste_pi", label: "Mini-Teste a decorrer nas aulas TP na semana" },
   ];
 
