@@ -32,7 +32,7 @@ export default function ManageTrades() {
     { value: "OTHER", label: "OTHER" },
     { value: "lanche", label: "Lanche" },
     { value: "Instalar Linux", label: "Instalar Linux" },
-
+    { value: "Lanche", label: "Lanche" },
   ];
 
   const YearInput = [
